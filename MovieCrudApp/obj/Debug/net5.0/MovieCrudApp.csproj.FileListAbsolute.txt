@@ -1,0 +1,231 @@
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\appsettings.json
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.exe
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.deps.json
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.runtimeconfig.json
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.runtimeconfig.dev.json
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.pdb
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.Views.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.Views.pdb
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.csproj.AssemblyReference.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.AssemblyInfoInputs.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.AssemblyInfo.cs
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorAssemblyInfo.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorAssemblyInfo.cs
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\scopedcss\bundle\MovieCrudApp.styles.css
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\MovieCrudApp.StaticWebAssets.Manifest.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\MovieCrudApp.StaticWebAssets.Pack.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.MovieCrudApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.build.MovieCrudApp.props
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MovieCrudApp.props
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MovieCrudApp.props
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.TagHelpers.input.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.TagHelpers.output.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorCoreGenerate.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Watchlist\Index.cshtml.g.cs
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Watchlist\UpdatePartial.cshtml.g.cs
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorTargetAssemblyInfo.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorTargetAssemblyInfo.cs
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.Views.pdb
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.csproj.CopyComplete
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\refint\MovieCrudApp.dll
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.pdb
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.genruntimeconfig.cache
+C:\Users\atlas\.NET example 15\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\ref\MovieCrudApp.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\appsettings.json
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.exe
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.deps.json
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.runtimeconfig.json
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.runtimeconfig.dev.json
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.pdb
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.Views.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.Views.pdb
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.csproj.AssemblyReference.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.AssemblyInfoInputs.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.AssemblyInfo.cs
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorAssemblyInfo.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorAssemblyInfo.cs
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\scopedcss\bundle\MovieCrudApp.styles.css
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\MovieCrudApp.StaticWebAssets.Manifest.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\MovieCrudApp.StaticWebAssets.Pack.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.MovieCrudApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.build.MovieCrudApp.props
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MovieCrudApp.props
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MovieCrudApp.props
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.TagHelpers.input.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.TagHelpers.output.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorCoreGenerate.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Watchlist\Index.cshtml.g.cs
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Watchlist\UpdatePartial.cshtml.g.cs
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorTargetAssemblyInfo.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorTargetAssemblyInfo.cs
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.Views.pdb
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.csproj.CopyComplete
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\refint\MovieCrudApp.dll
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.pdb
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.genruntimeconfig.cache
+C:\Users\atlas\.NET example 15✔️\MyTVWatchList\MovieCrudApp\obj\Debug\net5.0\ref\MovieCrudApp.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\appsettings.json
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.exe
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.deps.json
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.runtimeconfig.json
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.runtimeconfig.dev.json
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.pdb
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.Views.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\MovieCrudApp.Views.pdb
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.csproj.AssemblyReference.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.AssemblyInfoInputs.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.AssemblyInfo.cs
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorAssemblyInfo.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorAssemblyInfo.cs
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\scopedcss\bundle\MovieCrudApp.styles.css
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\staticwebassets\MovieCrudApp.StaticWebAssets.Manifest.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\staticwebassets\MovieCrudApp.StaticWebAssets.Pack.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.MovieCrudApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.build.MovieCrudApp.props
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.MovieCrudApp.props
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.MovieCrudApp.props
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.TagHelpers.input.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.TagHelpers.output.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorCoreGenerate.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Watchlist\Index.cshtml.g.cs
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\Razor\Views\Watchlist\UpdatePartial.cshtml.g.cs
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorTargetAssemblyInfo.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.RazorTargetAssemblyInfo.cs
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.Views.pdb
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.csproj.CopyComplete
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\refint\MovieCrudApp.dll
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.pdb
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\MovieCrudApp.genruntimeconfig.cache
+C:\Users\atlas\Desktop\MovieListApp_.NET\MovieCrudApp\obj\Debug\net5.0\ref\MovieCrudApp.dll
